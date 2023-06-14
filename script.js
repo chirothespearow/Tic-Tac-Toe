@@ -48,6 +48,10 @@ const gameBoard = (function(){
             document.querySelector('.winner').textContent = `Player ${winner} wins!`;
             gameEnd=true;
         }
+        else if(!board.includes(0)){
+            document.querySelector('.winner').textContent = `Draw!`;
+            gameEnd=true;
+        }
         // console.log(board);
     }
     //Adding listeners to grid
