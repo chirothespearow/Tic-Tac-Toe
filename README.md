@@ -5,4 +5,4 @@ Add CPU opponent\
 Change Icons\
 ...
 
-chirothespearow.github.io/Tic-Tac-Toe
+https://chirothespearow.github.io/Tic-Tac-Toe
